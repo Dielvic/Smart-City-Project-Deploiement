@@ -1,0 +1,221 @@
+,City_x,Cappuccino,Cinema,Wine,Gasoline,Avg.Rent,Avg.Disposable.Income,Country,y,label,city_country,City_y,lat,lng,country,iso3,capital,population
+0,Basel,3.5,11.89,7.35,1.25,1649.29,3847.76,Switzerland,C8,5,"Basel, Switzerland",Basel,47.5606,7.5906,Switzerland,CHE,admin,177827.0
+1,Beijing,2.64,8.46,10.36,0.86,1586.25,600.13,China,C1,0,"Beijing, China",Beijing,39.904,116.4075,China,CHN,primary,19437000.0
+2,Belfast,2.19,5.98,6.22,1.39,807.12,1494.67,United Kingdom,C3,3,"Belfast, United Kingdom",Belfast,54.5964,-5.93,United Kingdom,GBR,,333871.0
+3,Belgrade,1.1,2.98,3.02,1.17,426.24,359.9,Serbia,C1,1,"Belgrade, Serbia",Belgrade,44.8167,20.4667,Serbia,SRB,primary,1378682.0
+4,Belo Horizonte,1.38,5.69,8.13,0.9,764.05,455.69,Brazil,C1,2,"Belo Horizonte, Brazil",Belo Horizonte,-19.9281,-43.9419,Brazil,BRA,admin,5159000.0
+5,Bergen,3.92,12.32,12.32,1.57,1725.37,3002.59,Norway,C6,5,"Bergen, Norway",Bergen,60.3925,5.3233,Norway,NOR,admin,257087.0
+6,Berlin,1.88,6.82,3.84,1.36,916.42,1772.57,Germany,C4,3,"Berlin, Germany",Berlin,52.5167,13.3833,Germany,DEU,primary,3664088.0
+7,Birmingham,2.29,6.98,4.98,1.37,996.45,1554.46,United Kingdom,C3,3,"Birmingham, United Kingdom",Birmingham,52.48,-1.9025,United Kingdom,GBR,,1137100.0
+8,Bogota,1.25,4.27,7.48,0.8,426.95,326.88,Colombia,C1,2,"Bogota, Colombia",Bogota,4.6126,-74.0705,Colombia,COL,primary,7743955.0
+9,Boston,2.62,7.85,7.85,0.65,2288.19,2451.63,United States,C5,0,"Boston, United States",Boston,42.3188,-71.0846,United States,USA,admin,4688346.0
+10,Boston,2.62,7.85,7.85,0.65,2288.19,2451.63,United States,C5,0,"Boston, United States",Boston,42.6528,-78.7555,United States,USA,,8042.0
+11,Braga,1.02,4.48,2.13,1.39,383.62,596.74,Portugal,C1,1,"Braga, Portugal",Braga,41.5503,-8.42,Portugal,PRT,admin,181494.0
+12,Bratislava,1.45,5.11,4.26,1.28,852.48,681.99,Slovakia,C2,1,"Bratislava, Slovakia",Bratislava,48.1447,17.1128,Slovakia,SVK,primary,475503.0
+13,Brighton,2.49,14.95,4.97,1.37,1295.38,1594.31,United Kingdom,C3,3,"Brighton, United Kingdom",Brighton,50.8284,-0.1395,United Kingdom,GBR,,134293.0
+14,Brisbane,2.69,10.08,10.08,0.99,2351.93,2603.92,Australia,C5,5,"Brisbane, Australia",Brisbane,-27.4678,153.0281,Australia,AUS,admin,2360241.0
+15,Bristol,2.49,8.22,6.98,1.36,1619.23,1507.13,United Kingdom,C3,3,"Bristol, United Kingdom",Bristol,51.45,-2.5833,United Kingdom,GBR,,567111.0
+16,Brussels,2.13,7.67,5.11,1.36,1193.48,1875.46,Belgium,C4,3,"Brussels, Belgium",Brussels,50.8353,4.3314,Belgium,BEL,primary,1743000.0
+17,Bucharest,1.37,4.89,2.94,1.17,508.98,383.17,Romania,C1,1,"Bucharest, Romania",Bucharest,44.4,26.0833,Romania,ROU,primary,1883425.0
+18,Budapest,1.0,4.27,2.85,1.2,341.97,414.64,Hungary,C1,1,"Budapest, Hungary",Budapest,47.4983,19.0408,Hungary,HUN,primary,1723836.0
+19,Buenos Aires,2.08,5.48,3.94,0.89,590.75,657.33,Argentina,C2,2,"Buenos Aires, Argentina",Buenos Aires,-34.5997,-58.3819,Argentina,ARG,primary,16216000.0
+20,Cairo,1.42,3.27,7.33,0.19,425.85,163.44,Egypt,C1,2,"Cairo, Egypt",Cairo,30.0444,31.2358,Egypt,EGY,primary,19787000.0
+21,Calgary,2.55,8.29,9.56,0.74,1115.65,2231.29,Canada,C5,0,"Calgary, Canada",Calgary,51.05,-114.0667,Canada,CAN,,1239220.0
+22,Cambridge,1.99,8.22,7.97,1.39,1345.2,2730.26,United Kingdom,C6,3,"Cambridge, United Kingdom",Cambridge,52.2053,0.1192,United Kingdom,GBR,,123867.0
+23,Canberra,2.35,11.42,10.08,0.99,1984.74,3023.91,Australia,C6,5,"Canberra, Australia",Canberra,-35.2931,149.1269,Australia,AUS,primary,381488.0
+24,Cape Town,1.27,3.18,3.53,0.82,811.48,1199.58,South Africa,C3,2,"Cape Town, South Africa",Cape Town,-33.925,18.425,South Africa,ZAF,primary,433688.0
+25,Caracas,1.8,9.12,11.97,0.07,1634.42,527.89,Venezuela,C1,4,"Caracas, Venezuela",Caracas,10.5,-66.9333,Venezuela,VEN,primary,1943901.0
+26,Casablanca,1.7,3.94,3.45,0.85,997.08,230.09,Morocco,C1,2,"Casablanca, Morocco",Casablanca,33.5992,-7.62,Morocco,MAR,admin,4370000.0
+27,Charlotte,2.15,5.23,7.19,0.6,915.28,2073.1,United States,C4,0,"Charlotte, United States",Charlotte,35.208,-80.8304,United States,USA,,1512923.0
+28,Charlotte,2.15,5.23,7.19,0.6,915.28,2073.1,United States,C4,0,"Charlotte, United States",Charlotte,42.5662,-84.8304,United States,USA,,12703.0
+29,Chennai,0.66,1.81,4.83,0.87,301.69,301.69,India,C1,2,"Chennai, India",Chennai,13.0825,80.275,India,IND,admin,11564000.0
+30,Chiang Mai,1.05,3.53,11.4,0.82,426.24,227.95,Thailand,C1,2,"Chiang Mai, Thailand",Chiang Mai,18.7889,98.9833,Thailand,THA,admin,132634.0
+31,Chicago,2.45,7.85,7.85,0.71,1634.42,2111.35,United States,C4,0,"Chicago, United States",Chicago,41.8373,-87.6862,United States,USA,,8604203.0
+32,Christchurch,2.48,8.82,7.72,1.18,881.83,1460.54,New Zealand,C3,3,"Christchurch, New Zealand",Christchurch,-43.5309,172.6365,New Zealand,NZL,admin,383200.0
+33,Cologne,1.92,7.25,3.62,1.32,980.35,1704.96,Germany,C4,3,"Cologne, Germany",Cologne,50.9422,6.9578,Germany,DEU,,1083498.0
+34,Colombo,1.54,2.35,11.16,0.83,713.9,326.88,Sri Lanka,C1,2,"Colombo, Sri Lanka",Colombo,6.9167,79.8333,Sri Lanka,LKA,primary,752993.0
+35,Copenhagen,3.66,9.15,5.72,1.4,1658.01,2001.04,Denmark,C4,3,"Copenhagen, Denmark",Copenhagen,55.6805,12.5615,Denmark,DNK,primary,1085000.0
+36,Cordoba,1.95,3.92,4.25,0.93,524.8,523.02,Mexico,C1,2,"Cordoba, Mexico",Cordoba,18.8942,-96.9347,Mexico,MEX,minor,218153.0
+37,Cork,2.13,7.08,8.52,1.36,1022.98,1633.36,Ireland,C3,3,"Cork, Ireland",Cork,51.9,-8.4731,Ireland,IRL,admin,208669.0
+38,Curitiba,1.54,5.2,8.05,0.87,861.59,796.57,Brazil,C2,2,"Curitiba, Brazil",Curitiba,-25.4297,-49.2719,Brazil,BRA,admin,1879355.0
+39,Dallas,2.62,6.54,6.54,0.59,1405.6,2116.9,United States,C4,0,"Dallas, United States",Dallas,32.7936,-96.7662,United States,USA,,5743938.0
+40,Dallas,2.62,6.54,6.54,0.59,1405.6,2116.9,United States,C4,0,"Dallas, United States",Dallas,44.9222,-123.3131,United States,USA,,17859.0
+41,Dallas,2.62,6.54,6.54,0.59,1405.6,2116.9,United States,C4,0,"Dallas, United States",Dallas,33.9153,-84.8416,United States,USA,,13981.0
+42,Dallas,2.62,6.54,6.54,0.59,1405.6,2116.9,United States,C4,0,"Dallas, United States",Dallas,41.3604,-75.9662,United States,USA,,9208.0
+43,Darwin,3.36,10.08,10.08,1.04,2015.94,2435.93,Australia,C5,5,"Darwin, Australia",Darwin,-12.4381,130.8411,Australia,AUS,admin,136828.0
+44,Davao,0.79,1.9,3.17,0.84,554.18,158.34,Philippines,C1,2,"Davao, Philippines",Davao,7.0667,125.6,Philippines,PHL,admin,1776949.0
+45,Delhi,0.84,2.41,7.24,0.84,362.03,362.03,India,C1,2,"Delhi, India",Delhi,28.6667,77.2167,India,IND,admin,31870000.0
+46,Detroit,1.96,5.56,7.85,0.67,632.19,1895.93,United States,C4,0,"Detroit, United States",Detroit,42.3834,-83.1024,United States,USA,,3506126.0
+47,Dhaka,1.31,2.09,9.17,0.77,312.91,295.54,Bangladesh,C1,2,"Dhaka, Bangladesh",Dhaka,23.7289,90.3944,Bangladesh,BGD,primary,16839000.0
+48,Doha,2.78,6.28,14.32,0.18,2221.74,2775.58,Qatar,C6,0,"Doha, Qatar",Doha,25.3,51.5333,Qatar,QAT,primary,1186023.0
+49,Dresden,2.13,6.82,3.84,1.33,1193.48,2088.58,Germany,C4,3,"Dresden, Germany",Dresden,51.05,13.74,Germany,DEU,admin,554907.0
+50,Dubai,2.62,6.23,12.77,0.31,1981.57,2313.91,United Arab Emirates,C5,0,"Dubai, United Arab Emirates",Dubai,25.2697,55.3094,United Arab Emirates,ARE,admin,2502715.0
+51,Dublin,2.39,8.31,8.52,1.39,1278.72,1918.09,Ireland,C4,3,"Dublin, Ireland",Dublin,53.3497,-6.2603,Ireland,IRL,primary,553165.0
+52,Dusseldorf,2.13,8.31,4.47,1.28,1193.48,2301.7,Germany,C5,3,"Dusseldorf, Germany",Dusseldorf,51.2311,6.7724,Germany,DEU,admin,645923.0
+53,Edinburgh,2.09,7.97,6.73,1.35,996.45,1992.89,United Kingdom,C4,3,"Edinburgh, United Kingdom",Edinburgh,55.953,-3.189,United Kingdom,GBR,,488050.0
+54,Edmonton,2.55,8.29,11.16,0.69,1147.52,2199.42,Canada,C5,0,"Edmonton, Canada",Edmonton,53.5344,-113.4903,Canada,CAN,admin,1062643.0
+55,Florence,1.02,6.82,4.26,1.53,1278.72,1278.72,Italy,C3,1,"Florence, Italy",Florence,43.7714,11.2542,Italy,ITA,admin,380948.0
+56,Fortaleza,1.46,5.2,5.85,0.88,650.26,1307.54,Brazil,C3,2,"Fortaleza, Brazil",Fortaleza,-3.7275,-38.5275,Brazil,BRA,admin,2452185.0
+57,Frankfurt,2.13,7.67,4.07,1.36,1022.98,1875.46,Germany,C4,3,"Frankfurt, Germany",Frankfurt,50.1136,8.6797,Germany,DEU,minor,764104.0
+58,Gaborone,1.19,2.58,3.53,0.71,395.15,529.22,Botswana,C1,2,"Gaborone, Botswana",Gaborone,-24.6569,25.9086,Botswana,BWA,primary,231626.0
+59,Galway,2.13,7.67,6.39,1.39,852.48,1875.46,Ireland,C4,3,"Galway, Ireland",Galway,53.2729,-9.0418,Ireland,IRL,admin,79504.0
+60,Geneva,2.8,12.94,10.49,1.28,2607.95,3917.72,Switzerland,C8,5,"Geneva, Switzerland",Geneva,46.2,6.15,Switzerland,CHE,admin,201818.0
+61,Glasgow,2.52,9.0,6.0,1.07,1126.75,1654.76,United Kingdom,C3,3,"Glasgow, United Kingdom",Glasgow,55.8611,-4.25,United Kingdom,GBR,,626410.0
+62,Gold Coast,2.69,10.08,8.06,0.98,1310.36,2687.92,Australia,C5,0,"Gold Coast, Australia",Gold Coast,-28.0167,153.4,Australia,AUS,,638090.0
+63,Gothenburg,3.3,10.76,8.01,1.44,1001.25,2302.88,Sweden,C5,3,"Gothenburg, Sweden",Gothenburg,57.6717,11.981,Sweden,SWE,admin,604829.0
+64,Gurgaon,0.97,3.02,6.64,0.83,398.24,470.64,India,C1,2,"Gurgaon, India",Gurgaon,28.45,77.02,India,IND,,197340.0
+65,Haifa,2.16,6.75,8.1,1.37,719.73,1196.51,Israel,C3,3,"Haifa, Israel",Haifa,32.8,34.9833,Israel,ISR,admin,281087.0
+66,Hamburg,1.83,9.38,3.41,1.36,1534.47,1747.59,Germany,C4,3,"Hamburg, Germany",Hamburg,53.55,10.0,Germany,DEU,admin,1852478.0
+67,Hamilton,1.91,7.01,8.29,0.8,605.64,1593.78,Australia,C3,0,"Hamilton, Australia",Hamilton,-37.7333,142.0167,Australia,AUS,,9974.0
+68,Hanoi,1.31,2.66,8.17,0.81,718.36,172.25,Vietnam,C1,2,"Hanoi, Vietnam",Hanoi,21.0245,105.8412,Vietnam,VNM,primary,8246600.0
+69,Helsinki,2.57,10.23,8.52,1.43,1534.47,1960.71,Finland,C4,3,"Helsinki, Finland",Helsinki,60.1756,24.9342,Finland,FIN,primary,642045.0
+70,Honolulu,2.62,6.54,7.85,0.74,1830.55,2204.51,United States,C5,0,"Honolulu, United States",Honolulu,21.3294,-157.846,United States,USA,admin,820987.0
+71,Houston,2.29,6.54,6.53,0.63,1340.23,2124.75,United States,C4,0,"Houston, United States",Houston,29.7863,-95.3889,United States,USA,,5464251.0
+72,Hyderabad,0.72,1.81,4.83,0.91,241.35,301.69,India,C1,2,"Hyderabad, India",Hyderabad,17.3617,78.4747,India,IND,admin,9840000.0
+73,Indianapolis,2.6,5.56,5.88,0.65,817.21,2056.76,United States,C4,0,"Indianapolis, United States",Indianapolis,39.7771,-86.1458,United States,USA,admin,1588961.0
+74,Indore,0.91,2.23,6.03,0.84,205.15,120.68,India,C1,2,"Indore, India",Indore,22.7206,75.8472,India,IND,,1994397.0
+75,Istanbul,1.99,5.44,9.06,1.66,634.23,724.84,Turkey,C2,1,"Istanbul, Turkey",Istanbul,41.01,28.9603,Turkey,TUR,admin,15311000.0
+76,Izmir,1.81,4.71,7.25,1.69,543.63,590.57,Turkey,C1,1,"Izmir, Turkey",Izmir,38.4127,27.1384,Turkey,TUR,admin,329052.0
+77,Jakarta,1.88,3.37,16.83,0.45,807.7,336.54,Indonesia,C1,4,"Jakarta, Indonesia",Jakarta,-6.2146,106.8451,Indonesia,IDN,primary,35362000.0
+78,Jerusalem,2.52,6.84,6.3,1.43,810.35,1080.46,Israel,C2,3,"Jerusalem, Israel",Jerusalem,31.7833,35.2167,Israel,ISR,primary,919438.0
+79,Johannesburg,1.16,3.46,3.53,0.84,705.63,1167.89,South Africa,C3,2,"Johannesburg, South Africa",Johannesburg,-26.2044,28.0416,South Africa,ZAF,admin,4434827.0
+80,Karachi,1.0,3.27,5.11,0.67,197.78,139.6,Pakistan,C1,2,"Karachi, Pakistan",Karachi,24.86,67.01,Pakistan,PAK,admin,15292000.0
+81,Kharkiv,1.0,3.21,3.27,0.88,523.02,255.74,Ukraine,C1,2,"Kharkiv, Ukraine",Kharkiv,50.0,36.2292,Ukraine,UKR,admin,1446107.0
+82,Kochi,0.6,1.81,3.62,0.84,181.02,271.52,India,C1,2,"Kochi, India",Kochi,9.9667,76.2833,India,IND,,677381.0
+83,Kolkata,0.84,2.41,4.83,0.87,241.35,271.52,India,C1,2,"Kolkata, India",Kolkata,22.5727,88.3639,India,IND,admin,18698000.0
+84,Kuala Lumpur,1.72,2.57,10.72,0.41,857.82,702.18,Malaysia,C2,2,"Kuala Lumpur, Malaysia",Kuala Lumpur,3.1478,101.6953,Malaysia,MYS,primary,8639000.0
+85,Lagos,2.62,6.54,7.85,0.4,1193.13,350.79,Nigeria,C1,0,"Lagos, Nigeria",Lagos,6.45,3.4,Nigeria,NGA,minor,15487000.0
+86,Lahore,1.23,3.27,6.54,0.66,206.08,132.95,Pakistan,C1,2,"Lahore, Pakistan",Lahore,31.5497,74.3436,Pakistan,PAK,admin,11148000.0
+87,Las Vegas,2.12,7.85,7.85,0.65,604.74,2158.09,United States,C4,0,"Las Vegas, United States",Las Vegas,36.2333,-115.2654,United States,USA,,2104198.0
+88,Las Vegas,2.12,7.85,7.85,0.65,604.74,2158.09,United States,C4,0,"Las Vegas, United States",Las Vegas,35.6011,-105.2206,United States,USA,,14662.0
+89,Lausanne,3.15,12.59,8.4,1.32,1714.0,4266.11,Switzerland,C8,5,"Lausanne, Switzerland",Lausanne,46.5333,6.6333,Switzerland,CHE,admin,138905.0
+90,Leeds,1.99,7.6,6.33,1.38,797.16,1992.89,United Kingdom,C4,3,"Leeds, United Kingdom",Leeds,53.7997,-1.5492,United Kingdom,GBR,,789194.0
+91,Leicester,2.49,7.22,5.27,1.43,787.19,1793.6,United Kingdom,C4,3,"Leicester, United Kingdom",Leicester,52.6344,-1.1319,United Kingdom,GBR,,464395.0
+92,Lima,1.65,3.79,6.27,1.03,784.52,392.26,Peru,C1,2,"Lima, Peru",Lima,-12.06,-77.0375,Peru,PER,primary,8992000.0
+93,Limassol,2.98,6.82,4.26,1.15,618.05,937.73,Cyprus,C2,3,"Limassol, Cyprus",Limassol,34.675,33.0443,Cyprus,CYP,admin,235056.0
+94,Lisbon,1.02,5.11,2.98,1.38,822.65,767.23,Portugal,C2,1,"Lisbon, Portugal",Lisbon,38.708,-9.139,Portugal,PRT,primary,506654.0
+95,Ljubljana,1.28,4.69,4.26,1.27,767.23,809.86,Slovenia,C2,1,"Ljubljana, Slovenia",Ljubljana,46.05,14.5167,Slovenia,SVN,primary,286745.0
+96,Lodz,1.45,4.77,4.15,1.18,337.35,415.2,Poland,C1,1,"Lodz, Poland",Lodz,51.7769,19.4547,Poland,POL,admin,690422.0
+97,London,2.49,11.26,6.98,1.4,2590.76,1992.89,Canada,C4,3,"London, Canada",London,42.9836,-81.2497,Canada,CAN,,383822.0
+98,Los Angeles,2.62,7.52,7.85,0.69,1732.49,2085.69,Chile,C4,0,"Los Angeles, Chile",Los Angeles,-37.4707,-72.3517,Chile,CHL,minor,143023.0
+99,Luxembourg,2.13,7.25,4.26,1.15,1704.96,2983.69,Luxembourg,C6,3,"Luxembourg, Luxembourg",Luxembourg,49.6106,6.1328,Luxembourg,LUX,primary,128512.0
+100,Lyon,2.13,7.67,4.69,1.19,895.11,1704.96,France,C4,3,"Lyon, France",Lyon,45.76,4.84,France,FRA,admin,518635.0
+101,Madrid,1.7,6.82,3.92,1.24,1193.48,1278.72,Spain,C3,1,"Madrid, Spain",Madrid,40.4167,-3.7167,Spain,ESP,primary,6006000.0
+102,Malaga,1.28,7.03,2.98,1.21,575.43,968.42,Spain,C2,1,"Malaga, Spain",Malaga,36.7194,-4.42,Spain,ESP,minor,577405.0
+103,Malmo,2.9,10.01,8.51,1.4,1101.38,1802.26,Sweden,C4,3,"Malmo, Sweden",Malmo,55.5833,13.0333,Sweden,SWE,admin,269349.0
+104,Manama,2.6,5.2,19.61,0.17,1078.72,1176.78,Bahrain,C3,4,"Manama, Bahrain",Manama,26.225,50.5775,Bahrain,BHR,primary,157474.0
+105,Manchester,2.4,8.0,6.0,1.15,1200.0,1388.55,United Kingdom,C3,3,"Manchester, United Kingdom",Manchester,53.4794,-2.2453,United Kingdom,GBR,,547627.0
+106,Manila,1.58,2.77,4.75,0.86,791.68,221.67,Philippines,C1,2,"Manila, Philippines",Manila,14.6,120.9833,Philippines,PHL,primary,23971000.0
+107,Marbella,1.7,5.88,4.48,1.17,852.48,1619.72,Spain,C3,3,"Marbella, Spain",Marbella,36.5167,-4.8833,Spain,ESP,,147958.0
+108,Marseille,1.7,8.44,4.26,1.32,1022.98,1236.1,France,C3,1,"Marseille, France",Marseille,43.2964,5.37,France,FRA,admin,868277.0
+109,Medellin,1.31,3.38,7.48,0.78,261.51,310.54,Colombia,C1,2,"Medellin, Colombia",Medellin,6.2447,-75.5748,Colombia,COL,admin,2529403.0
+110,Melbourne,2.35,12.1,10.08,0.95,2073.06,2623.41,Australia,C5,0,"Melbourne, Australia",Melbourne,-37.8136,144.9631,Australia,AUS,admin,4529500.0
+111,Mexico City,1.6,3.2,7.47,0.56,747.1,587.01,Mexico,C1,2,"Mexico City, Mexico",Mexico City,19.4333,-99.1333,Mexico,MEX,primary,21505000.0
+112,Miami,2.62,6.54,9.81,0.65,1961.31,2052.83,United States,C4,0,"Miami, United States",Miami,25.7839,-80.2102,United States,USA,,6445545.0
+113,Miami,2.62,6.54,9.81,0.65,1961.31,2052.83,United States,C4,0,"Miami, United States",Miami,36.8877,-94.8718,United States,USA,,15571.0
+114,Milan,1.19,6.82,4.26,1.53,1704.96,1491.84,Italy,C3,1,"Milan, Italy",Milan,45.4669,9.19,Italy,ITA,admin,1366180.0
+115,Minneapolis,2.62,6.54,9.81,0.64,980.65,2295.38,United States,C5,0,"Minneapolis, United States",Minneapolis,44.9635,-93.2678,United States,USA,,2977172.0
+116,Minsk,1.31,2.12,4.25,0.56,491.12,294.2,Belarus,C1,2,"Minsk, Belarus",Minsk,53.9022,27.5618,Belarus,BLR,primary,2009786.0
+117,Montevideo,2.13,6.06,5.23,1.24,653.77,585.12,Uruguay,C1,1,"Montevideo, Uruguay",Montevideo,-34.8667,-56.1667,Uruguay,URY,primary,1319108.0
+118,Montreal,1.91,7.65,9.56,0.89,956.27,1785.03,Canada,C4,0,"Montreal, Canada",Montreal,45.5089,-73.5617,Canada,CAN,,3519595.0
+119,Moscow,3.1,7.24,7.03,0.62,2067.19,930.24,Russia,C2,0,"Moscow, Russia",Moscow,55.7558,37.6178,Russia,RUS,primary,17693000.0
+120,Mumbai,0.84,3.02,6.03,0.89,603.39,337.9,India,C1,2,"Mumbai, India",Mumbai,19.0758,72.8775,India,IND,admin,22186000.0
+121,Munich,2.3,7.67,5.11,1.36,1278.72,2045.96,Germany,C4,3,"Munich, Germany",Munich,48.1375,11.575,Germany,DEU,admin,1488202.0
+122,Muscat,1.7,5.1,5.46,0.2,1061.97,1609.09,Oman,C3,0,"Muscat, Oman",Muscat,23.6139,58.5922,Oman,OMN,primary,1421409.0
+123,Nairobi,1.36,3.92,7.21,0.94,632.15,323.49,Kenya,C1,2,"Nairobi, Kenya",Nairobi,-1.2864,36.8172,Kenya,KEN,primary,5545000.0
+124,Naples,1.02,6.39,4.26,1.53,1044.29,1022.98,Italy,C2,1,"Naples, Italy",Naples,40.8333,14.25,Italy,ITA,admin,966144.0
+125,Nashville,3.84,12.0,13.5,0.65,2257.14,3089.75,United States,C6,5,"Nashville, United States",Nashville,36.1715,-86.7843,United States,USA,admin,1081903.0
+126,Nashville,3.84,12.0,13.5,0.65,2257.14,3089.75,United States,C6,5,"Nashville, United States",Nashville,35.9692,-77.9555,United States,USA,,5554.0
+127,New Orleans,2.04,7.85,9.81,0.65,1242.16,1920.77,United States,C4,0,"New Orleans, United States",New Orleans,30.0687,-89.9288,United States,USA,,1020886.0
+128,New York,2.58,8.5,9.81,0.69,3268.84,2530.09,United States,C5,0,"New York, United States",New York,40.6943,-73.9249,United States,USA,,18713220.0
+129,Newark,2.45,7.19,10.46,0.67,980.65,2402.6,United States,C5,0,"Newark, United States",Newark,40.7245,-74.1725,United States,USA,,282011.0
+130,Newark,2.45,7.19,10.46,0.67,980.65,2402.6,United States,C5,0,"Newark, United States",Newark,40.0705,-82.4251,United States,USA,,80451.0
+131,Newark,2.45,7.19,10.46,0.67,980.65,2402.6,United States,C5,0,"Newark, United States",Newark,37.5204,-122.0312,United States,USA,,49149.0
+132,Newark,2.45,7.19,10.46,0.67,980.65,2402.6,United States,C5,0,"Newark, United States",Newark,39.6776,-75.7573,United States,USA,,33515.0
+133,Newark,2.45,7.19,10.46,0.67,980.65,2402.6,United States,C5,0,"Newark, United States",Newark,43.0418,-77.093,United States,USA,,13333.0
+134,Nice,2.13,8.1,5.11,1.3,1278.72,1624.66,France,C3,3,"Nice, France",Nice,43.7034,7.2663,France,FRA,minor,341032.0
+135,Nicosia,3.41,6.82,4.69,1.2,639.36,1065.6,Cyprus,C2,3,"Nicosia, Cyprus",Nicosia,35.1725,33.365,Cyprus,CYP,primary,330000.0
+136,Nottingham,2.49,7.97,4.98,1.37,797.16,1793.6,United Kingdom,C4,3,"Nottingham, United Kingdom",Nottingham,52.9533,-1.15,United Kingdom,GBR,,289301.0
+137,Orlando,1.96,5.88,7.52,0.66,1176.78,2013.61,United States,C4,0,"Orlando, United States",Orlando,28.4772,-81.3369,United States,USA,,1822394.0
+138,Oslo,3.36,11.2,12.32,1.57,2016.66,2800.92,Norway,C6,5,"Oslo, Norway",Oslo,59.9111,10.7528,Norway,NOR,primary,693494.0
+139,Ottawa,2.39,7.65,9.56,0.8,1020.02,2900.68,Canada,C6,0,"Ottawa, Canada",Ottawa,45.4247,-75.695,Canada,CAN,primary,989567.0
+140,Oxford,2.49,7.97,7.97,1.36,1494.67,1693.96,United Kingdom,C4,3,"Oxford, United Kingdom",Oxford,51.7519,-1.2578,United Kingdom,GBR,,152000.0
+141,Paris,2.56,8.95,5.11,1.32,2131.21,2045.96,France,C4,3,"Paris, France",Paris,48.8566,2.3522,France,FRA,primary,11027000.0
+142,Perth,2.87,11.43,10.08,0.97,2083.14,3358.55,Australia,C7,5,"Perth, Australia",Perth,-31.9522,115.8589,Australia,AUS,admin,2039200.0
+143,Philadelphia,2.29,7.19,7.85,0.65,1601.73,2185.88,United States,C4,0,"Philadelphia, United States",Philadelphia,40.0077,-75.1339,United States,USA,,5649300.0
+144,Philadelphia,2.29,7.19,7.85,0.65,1601.73,2185.88,United States,C4,0,"Philadelphia, United States",Philadelphia,32.7761,-89.1221,United States,USA,,7345.0
+145,Phoenix,2.7,6.21,6.37,0.62,817.21,2060.68,United States,C4,0,"Phoenix, United States",Phoenix,33.5722,-112.0891,United States,USA,admin,4219697.0
+146,Portland,2.29,6.54,7.85,0.68,1046.03,1982.23,Australia,C4,0,"Portland, Australia",Portland,-38.3333,141.6,Australia,AUS,,9712.0
+147,Porto,0.68,4.26,3.41,1.37,596.74,664.94,Portugal,C2,1,"Porto, Portugal",Porto,41.1495,-8.6108,Portugal,PRT,admin,237591.0
+148,Porto Alegre,1.14,5.2,4.71,0.89,487.69,306.89,Brazil,C1,2,"Porto Alegre, Brazil",Porto Alegre,-30.0328,-51.23,Brazil,BRA,admin,1484941.0
+149,Pretoria,1.06,3.63,3.25,0.84,377.8,952.6,South Africa,C2,2,"Pretoria, South Africa",Pretoria,-25.7464,28.1881,South Africa,ZAF,primary,741651.0
+150,Pune,0.84,2.41,5.43,0.89,301.69,362.03,India,C1,2,"Pune, India",Pune,18.5196,73.8553,India,IND,,7948000.0
+151,Quito,1.22,2.94,6.54,0.29,310.54,196.13,Ecuador,C1,2,"Quito, Ecuador",Quito,-0.22,-78.5125,Ecuador,ECU,primary,2011388.0
+152,Regina,2.65,7.65,9.56,0.8,956.27,1912.54,Canada,C4,0,"Regina, Canada",Regina,50.4547,-104.6067,Canada,CAN,admin,215106.0
+153,Riyadh,1.69,79.49,17.43,0.08,610.14,1394.6,Saudi Arabia,C3,4,"Riyadh, Saudi Arabia",Riyadh,24.65,46.71,Saudi Arabia,SAU,primary,6889000.0
+154,Rochester,1.96,6.54,11.44,0.68,719.15,1536.36,United States,C3,0,"Rochester, United States",Rochester,43.168,-77.6162,United States,USA,,703952.0
+155,Rochester,1.96,6.54,11.44,0.68,719.15,1536.36,United States,C3,0,"Rochester, United States",Rochester,44.0151,-92.4778,United States,USA,,119942.0
+156,Rochester,1.96,6.54,11.44,0.68,719.15,1536.36,United States,C3,0,"Rochester, United States",Rochester,43.299,-70.9787,United States,USA,,31526.0
+157,Rochester,1.96,6.54,11.44,0.68,719.15,1536.36,United States,C3,0,"Rochester, United States",Rochester,42.6866,-83.1198,United States,USA,,13296.0
+158,Rochester,1.96,6.54,11.44,0.68,719.15,1536.36,United States,C3,0,"Rochester, United States",Rochester,41.059,-86.196,United States,USA,,7046.0
+159,Rochester,1.96,6.54,11.44,0.68,719.15,1536.36,United States,C3,0,"Rochester, United States",Rochester,41.76,-70.8385,United States,USA,,5580.0
+160,Rome,1.02,6.82,4.26,1.53,2131.21,1270.2,Italy,C3,1,"Rome, Italy",Rome,41.8931,12.4828,Italy,ITA,primary,2872800.0
+161,Rotterdam,2.09,8.1,3.84,1.46,1278.72,1704.96,Netherlands,C4,3,"Rotterdam, Netherlands",Rotterdam,51.9225,4.4792,Netherlands,NLD,minor,631155.0
+162,Saint Petersburg,2.07,6.2,6.2,0.62,1033.6,620.16,Russia,C1,2,"Saint Petersburg, Russia",Saint Petersburg,59.95,30.3167,Russia,RUS,admin,5384342.0
+163,San Antonio,2.62,5.23,7.52,0.59,980.65,1964.58,Chile,C4,0,"San Antonio, Chile",San Antonio,-33.5809,-71.6132,Chile,CHL,minor,86239.0
+164,San Diego,2.45,6.54,6.54,0.67,1569.05,2341.8,United States,C5,0,"San Diego, United States",San Diego,32.8312,-117.1225,United States,USA,,3220118.0
+165,San Francisco,2.29,7.85,9.48,0.69,2484.32,2667.38,Argentina,C5,0,"San Francisco, Argentina",San Francisco,-31.4356,-62.0714,Argentina,ARG,minor,62000.0
+166,Santiago,1.64,5.34,4.11,1.09,547.6,616.05,Chile,C1,1,"Santiago, Chile",Santiago,-33.45,-70.6667,Chile,CHL,primary,7026000.0
+167,Santo Domingo,0.8,3.27,5.0,1.01,437.44,556.74,Dominican Republic,C1,2,"Santo Domingo, Dominican Republic",Santo Domingo,18.4764,-69.8933,Dominican Republic,DOM,primary,2581827.0
+168,Sao Paulo,1.3,6.5,8.13,0.88,1219.23,650.26,Brazil,C2,2,"Sao Paulo, Brazil",Sao Paulo,-23.5504,-46.6339,Brazil,BRA,admin,22495000.0
+169,Seattle,2.45,7.11,7.52,0.66,1634.42,2373.83,United States,C5,0,"Seattle, United States",Seattle,47.6211,-122.3244,United States,USA,,3789215.0
+170,Seoul,2.59,5.25,11.67,1.17,1458.2,1458.2,South Korea,C3,3,"Seoul, South Korea",Seoul,37.56,126.99,South Korea,KOR,primary,22394000.0
+171,Shanghai,2.96,8.46,8.46,0.85,1533.38,592.2,China,C1,0,"Shanghai, China",Shanghai,31.1667,121.4667,China,CHN,admin,22118000.0
+172,Singapore,2.64,5.27,15.82,1.11,3164.42,1582.21,Singapore,C3,5,"Singapore, Singapore",Singapore,1.3,103.8,Singapore,SGP,primary,5271000.0
+173,Sliema,1.7,7.25,2.98,1.2,596.74,1363.97,Malta,C3,1,"Sliema, Malta",Sliema,35.9122,14.5042,Malta,MLT,admin,16854.0
+174,Sofia,0.87,3.93,3.06,1.11,349.35,353.72,Bulgaria,C1,1,"Sofia, Bulgaria",Sofia,42.6979,23.3217,Bulgaria,BGR,primary,1277411.0
+175,Stavanger,4.48,10.65,13.44,1.68,2240.74,2957.77,Norway,C6,5,"Stavanger, Norway",Stavanger,58.9701,5.7333,Norway,NOR,admin,129300.0
+176,Stockholm,3.0,11.01,7.91,1.46,1501.88,2002.51,Sweden,C4,3,"Stockholm, Sweden",Stockholm,59.3294,18.0686,Sweden,SWE,primary,975819.0
+177,Strasbourg,2.13,7.25,4.26,1.32,937.73,1790.21,France,C4,3,"Strasbourg, France",Strasbourg,48.5833,7.7458,France,FRA,admin,284677.0
+178,Stuttgart,2.13,6.82,4.26,1.32,980.35,1943.66,Germany,C4,3,"Stuttgart, Germany",Stuttgart,48.7761,9.1775,Germany,DEU,admin,630305.0
+179,Sydney,2.35,12.1,10.75,1.0,2788.71,2755.12,Australia,C6,5,"Sydney, Australia",Sydney,-33.865,151.2094,Australia,AUS,admin,4840600.0
+180,Taipei,1.75,6.01,8.14,0.77,784.52,942.66,Taiwan,C2,2,"Taipei, Taiwan",Taipei,25.0478,121.5319,Taiwan,TWN,,2684567.0
+181,Tampa,2.45,6.21,9.81,0.6,915.28,2033.87,United States,C4,0,"Tampa, United States",Tampa,27.9942,-82.4451,United States,USA,,2908063.0
+182,Tehran,1.96,2.62,26.15,0.37,980.65,392.26,Iran,C1,4,"Tehran, Iran",Tehran,35.7,51.4167,Iran,IRN,primary,13819000.0
+183,The Hague,2.26,8.1,4.05,1.52,1363.97,2386.95,Netherlands,C5,3,"The Hague, Netherlands",The Hague,52.08,4.31,Netherlands,NLD,primary,537833.0
+184,Thessaloniki,2.98,6.82,5.11,1.45,468.87,596.74,Greece,C1,3,"Thessaloniki, Greece",Thessaloniki,40.6403,22.9356,Greece,GRC,admin,315196.0
+185,Tirana,0.85,3.12,4.26,1.27,426.24,285.76,Albania,C1,1,"Tirana, Albania",Tirana,41.33,19.82,Albania,ALB,primary,418495.0
+186,Tokyo,2.3,11.8,8.52,0.98,1967.31,2065.67,Japan,C4,0,"Tokyo, Japan",Tokyo,35.6839,139.7744,Japan,JPN,primary,39105000.0
+187,Toronto,2.23,8.29,9.5,0.83,1593.78,1912.54,Canada,C4,0,"Toronto, Canada",Toronto,43.7417,-79.3733,Canada,CAN,admin,5429524.0
+188,Toulouse,1.92,7.25,4.26,1.28,1022.98,2011.86,France,C4,3,"Toulouse, France",Toulouse,43.6045,1.444,France,FRA,admin,486828.0
+189,Trondheim,3.81,12.32,13.44,1.57,1680.55,2800.92,Norway,C6,5,"Trondheim, Norway",Trondheim,63.44,10.4,Norway,NOR,minor,183378.0
+190,Ulaanbaatar,1.75,3.27,6.54,0.78,1307.54,326.88,Mongolia,C1,2,"Ulaanbaatar, Mongolia",Ulaanbaatar,47.9214,106.9055,Mongolia,MNG,primary,1396288.0
+191,Utrecht,2.13,6.82,4.26,1.45,1193.48,1611.19,Netherlands,C3,3,"Utrecht, Netherlands",Utrecht,52.0889,5.1156,Netherlands,NLD,admin,343779.0
+192,Vadodara,0.72,2.17,6.03,0.84,120.68,307.73,India,C1,2,"Vadodara, India",Vadodara,22.3,73.2,India,IND,,2065771.0
+193,Valencia,1.28,6.82,4.26,1.24,596.74,1193.48,Spain,C3,1,"Valencia, Spain",Valencia,39.47,-0.3764,Spain,ESP,admin,789744.0
+194,Vancouver,2.55,7.97,12.75,0.89,1848.79,1657.53,Canada,C3,0,"Vancouver, Canada",Vancouver,49.25,-123.1,Canada,CAN,,2264823.0
+195,Varna,0.83,3.93,3.06,1.09,305.68,283.85,Bulgaria,C1,1,"Varna, Bulgaria",Varna,43.2114,27.9111,Bulgaria,BGR,admin,347924.0
+196,Venice,1.28,6.82,3.41,1.4,1278.72,1875.46,Italy,C4,1,"Venice, Italy",Venice,45.4397,12.3319,Italy,ITA,admin,261321.0
+197,Victoria,2.39,7.65,9.56,0.83,1083.77,1657.53,Argentina,C3,0,"Victoria, Argentina",Victoria,-32.6167,-60.1667,Argentina,ARG,minor,30623.0
+198,Vienna,2.13,7.67,4.26,1.25,1248.9,1619.72,Austria,C3,3,"Vienna, Austria",Vienna,48.2083,16.3725,Austria,AUT,primary,1911191.0
+199,Vilnius,1.23,4.44,4.44,1.19,493.78,457.29,Lithuania,C1,1,"Vilnius, Lithuania",Vilnius,54.6833,25.2833,Lithuania,LTU,primary,574147.0
+200,Warsaw,1.66,5.19,5.19,1.18,726.59,664.31,Poland,C2,1,"Warsaw, Poland",Warsaw,52.23,21.0111,Poland,POL,primary,1790658.0
+201,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,38.9047,-77.0163,United States,USA,primary,5379184.0
+202,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,39.747,-75.0724,United States,USA,,47833.0
+203,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,37.1304,-113.4877,United States,USA,,29174.0
+204,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.7877,-74.7918,United States,USA,,18429.0
+205,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.7049,-89.4346,United States,USA,,16516.0
+206,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,35.5587,-77.0545,United States,USA,,16014.0
+207,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.7587,-74.9825,United States,USA,,15357.0
+208,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,39.7494,-77.558,United States,USA,,14627.0
+209,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,38.5514,-91.0151,United States,USA,,14417.0
+210,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,38.6587,-87.1591,United States,USA,,13565.0
+211,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.174,-80.2466,United States,USA,,13433.0
+212,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.9884,-74.0637,United States,USA,,9237.0
+213,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,41.2982,-91.6928,United States,USA,,7230.0
+214,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.5093,-79.6011,United States,USA,,7109.0
+215,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.7389,-75.6392,United States,USA,,6748.0
+216,Washington,2.37,7.85,7.85,0.69,2451.63,2484.32,United States,C5,0,"Washington, United States",Washington,40.8467,-75.1972,United States,USA,,5232.0
+217,Wellington,2.2,8.82,8.27,1.17,1515.65,1763.67,New Zealand,C4,3,"Wellington, New Zealand",Wellington,-41.2889,174.7772,New Zealand,NZL,primary,418500.0
+218,Zagreb,1.12,3.7,4.48,1.23,504.36,605.23,Croatia,C1,1,"Zagreb, Croatia",Zagreb,45.8131,15.9772,Croatia,HRV,primary,790017.0
+219,Zurich,3.28,12.59,8.4,1.31,2378.61,4197.55,Switzerland,C8,5,"Zurich, Switzerland",Zurich,47.3744,8.5411,Switzerland,CHE,admin,434008.0

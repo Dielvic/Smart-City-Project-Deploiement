@@ -1,0 +1,23 @@
+<!-- Our CSS_home -->
+<link href="{{url_for('static', filename='css/style_home.css')}}" rel="stylesheet">
+
+
+<h1>APPLICATION FLASK EN COURS D'EXECUTION</h1>
+<h2>Veuillez saisir les montants en Dollar ($) que vouc êtes pret à dépenser: </h2>
+<form method="POST">
+	{{ form.hidden_tag() }}
+	{{ form.capp_price.label}} {{form.capp_price}}
+	<br>
+	{{ form.cine_price.label}} {{form.cine_price}}
+	<br>
+	{{ form.wine_price.label}} {{form.wine_price}}
+	<br>
+	{{ form.gaso_price.label}} {{form.gaso_price}}
+	<br>
+	{{ form.rent_price.label}} {{form.rent_price}}
+	<br>
+	{{ form.inc_price.label}} {{form.inc_price}}
+	<br>
+	{{ form.submit() }}
+
+</form>

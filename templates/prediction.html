@@ -1,0 +1,21 @@
+<!-- Our CSS_pred -->
+<link href="{{url_for('static', filename='css/style_prediction.css')}}" rel="stylesheet">
+
+
+
+<h1>Merci. Voici les informations que vous avez données : </h1>
+<ul>
+	<li> Prix moyen d'un cafée: {{session['capp_price']}}</li>
+	<li> Prix moyen d'un cinéma: {{session['cine_price']}}</li>
+	<li>Prix moyen d'une bouteille de vin: {{session['wine_price']}}</li>
+	<li>Prix moyen d'un litre de gasoil: {{session['gaso_price']}}</li>
+	<li>Cout moyen du loyer: {{session['rent_price']}}</li>
+	<li>Revenu moyen: {{session['inc_price']}}</li>
+</ul>
+<h2>Les villes qui vous correspondent sont :  </h2>
+<h3>{{results}} </h3>
+
+<form method="post" action="/prediction/villes">
+			 <input type="submit" value="cliquez ici" name="action1"/>
+ </form>
+<img src="{{url_for('static',filename='images/voyage.png')}}"  width=600>

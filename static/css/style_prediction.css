@@ -1,0 +1,24 @@
+h1 {
+  color: darkblue;
+  font-size:60px;
+}
+h2 {
+  color: blue;
+  font-size:40px;
+}
+body {
+  background: #DCEADB;
+}
+h3{
+  margin: 20px;
+  font: Shanti;
+}
+form{
+  color: blue;
+}
+img{
+  width=400px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
